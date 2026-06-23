@@ -1,6 +1,6 @@
 # Agent Workflow System
 
-A reusable, git-based memory system for coordinating AI planning and execution agents across sessions. Built for projects where one agent plans (Perplexity) and another executes (Codex, Claude Code, Cursor) — with git as the only communication channel between them.
+A reusable, git-based memory system for coordinating AI planning and execution agents across sessions. Built for projects where one agent plans (Perplexity) and another executes (Codex, Claude Code, Cursor), with git as the only communication channel between them.
 
 ---
 
